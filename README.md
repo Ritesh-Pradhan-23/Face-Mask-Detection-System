@@ -24,5 +24,5 @@ The project includes a live Streamlit web application where users can upload an 
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YourUsername/Face-Mask-Detection.git](https://github.com/YourUsername/Face-Mask-Detection.git)
-   cd Face-Mask-Detection
+ git clone https://github.com/Ritesh-Pradhan-23/Face-Mask-Detection.git
+cd Face-Mask-Detection
